@@ -10,12 +10,15 @@ Done		- Choose game types (22/10/2017)
 -----------------------------------------------------------------------------------
 Ongoing		- Charactor
 		- Items
-		- Map
-		- tiles
-		- background
-		- obstacle
-		- stage
 		- Game UI,hud
+		Map
+			- tiles
+			- background
+			- obstacle
+			- stage
+		Sound
+			- Sfx
+			- Music
 -----------------------------------------------------------------------------------
 Next Phase : Prototype	(x days)
 -----------------------------------------------------------------------------------
